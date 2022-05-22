@@ -3,7 +3,7 @@ title:  "Try to write the blog"
 subtitle: "First Try"
 author: "Liu Bowen"
 avatar: "img/authors/wferr.png"
-image: "img/694d900cc3fa4109be938f48b7649d2.jpg"
+image: "img/a.jpg"
 date:   2022-05-22 13:12:12 -0700
 ---
 
